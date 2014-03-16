@@ -1,0 +1,12 @@
+{
+  "name": "Nodemailer_with_Gmail",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "nodemailer": "latest"
+  }
+}
